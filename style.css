@@ -1,6 +1,6 @@
 #container {
 	width: 70%;
-	height: 64px;
+	height: 128px;
 	background-color: rgb(0.5, 0.6, 1, 0.2);
 	margin-left: 15%;
 	text-align: center;
@@ -9,5 +9,8 @@
 #container h1 {
 	font-family: "Comic Sans MS";
 	text-transform: uppercase;
-	align-self: center;
+}
+
+#container h2 {
+	font-family: "Sans Serif";
 }
